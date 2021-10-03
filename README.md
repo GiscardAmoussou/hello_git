@@ -1,4 +1,3 @@
-# Hello Git - Enigma
+#Hello Git - Enigma
 
-Objets done
-# hello_git
+Merge chapter
